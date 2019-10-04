@@ -69,3 +69,11 @@ body{
   left: 800px;
   top: 400px;
 }
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #141414;
+  color: white;
+  font-size: 30px;
+}
