@@ -70,6 +70,12 @@ body{
   top: 400px;
 }
 
+#z5{
+  position: absolute;
+  left: 975px;
+  top: 400px;
+}
+
 .header {
   background: #141414;
   color: white;
